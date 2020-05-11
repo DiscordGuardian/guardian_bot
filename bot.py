@@ -12,5 +12,7 @@ def e(e):
   return e
 async def makeCommands(name: int, amoutn: str):
   return e(e(nope))
+
+await makeCommands("owo", 99999999999999999999999999999999999999999999999999999999999999999999999999999999999) # Infinite commands haha
   
 client.run("epicwashereowo")
